@@ -1,0 +1,10 @@
+name: InventoryShrink
+version: ${project.version}
+main: me.interuptings.inventoryshrink.InventoryShrink
+api-version: 1.16
+authors: [Interuptings]
+commands:
+  invshrink:
+    aliases:
+      - inventoryshrink
+      - tapl
